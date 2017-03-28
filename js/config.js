@@ -55,9 +55,9 @@ Multiple images will automatically shuffle between them
 var l_bgImages = [
 	"GbsiBg1.png",
 	"pFgMV13.png",
-	"RNRQd05.png"
-	"YAA6Bkk.jpg"
-	"thTJJ6m.jpg"
+	"RNRQd05.png",
+	"YAA6Bkk.jpg",
+	"thTJJ6m.jpg",
 	
 ];
 
