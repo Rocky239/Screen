@@ -92,7 +92,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{ogg: "Otherwise-SOLDIERS_Lyrics_on_screen_and_in_descrpi.ogg", name: "Otherwise Soldiers"},
+	{ogg: "soldiers", name: "Otherwise Soldiers"},
 ];
 
 /*Random music order?*/
