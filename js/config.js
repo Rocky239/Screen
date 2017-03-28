@@ -14,7 +14,7 @@ var l_serverImage = "logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "Revan Gaming";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -53,9 +53,12 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"GbsiBg1.png",
+	"pFgMV13.png",
+	"RNRQd05.png"
+	"YAA6Bkk.jpg"
+	"thTJJ6m.jpg"
+	
 ];
 
 /*Random background images order?*/
@@ -89,10 +92,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "zA6wRutN_7Q", name: "Suwa-cafeteria"},
-	{youtube: "KtlKbE4qU0c", name: "月の妖鳥、化猫の幻"},
+	{ogg: "Otherwise-SOLDIERS_Lyrics_on_screen_and_in_descrpi.ogg", name: "Otherwise Soldiers"},
 ];
 
 /*Random music order?*/
@@ -107,9 +107,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Did you know these backgrounds and songs are from Touhou?"
+	"Enjoy your stay on Revan Gaming!",
+	"We strive to be the best at what we do!",
+	"We are alive becuase of you! The players! Thank you!"
 ];
 
 /*Random message order?*/
